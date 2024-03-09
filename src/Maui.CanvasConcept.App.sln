@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.10.34607.79
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Maui.CanvasConcept.App", "Maui.CanvasConcept.App\Maui.CanvasConcept.App.csproj", "{23369AC2-3EC4-4132-B202-975AD3B43990}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Maui.CanvasConcept.App", "Maui.CanvasConcept.App\Maui.CanvasConcept.App.csproj", "{23369AC2-3EC4-4132-B202-975AD3B43990}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Maui.CanvasConcept.Graphics", "Maui.CanvasConcept.Graphics\Maui.CanvasConcept.Graphics.csproj", "{3BF95359-5875-4C3B-962C-AE955834D4C0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,6 +19,10 @@ Global
 		{23369AC2-3EC4-4132-B202-975AD3B43990}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{23369AC2-3EC4-4132-B202-975AD3B43990}.Release|Any CPU.Build.0 = Release|Any CPU
 		{23369AC2-3EC4-4132-B202-975AD3B43990}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{3BF95359-5875-4C3B-962C-AE955834D4C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3BF95359-5875-4C3B-962C-AE955834D4C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3BF95359-5875-4C3B-962C-AE955834D4C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3BF95359-5875-4C3B-962C-AE955834D4C0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
